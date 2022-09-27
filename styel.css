@@ -1,0 +1,48 @@
+body {
+  margin: 0
+    background-coler: gray
+}
+heder {
+  position: relative;
+  padding: 100px;
+  
+}
+
+nav{
+  position:  absolute;
+  top: 10;
+ right: 100px;
+}
+
+.lists{
+  display: flex;
+  color: black;
+  list-style-type: none;
+  text-align:center;
+}
+
+.list {
+  color:black;
+  padding-right: 50px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+img{
+  width: 300px
+}
+
+text {
+  width: 90%
+}
+
+madia {
+   text-align: center;
+  padding-top: 100px;
+}
+
+footer {
+  
+  padding-top: 50px
+    
+}
